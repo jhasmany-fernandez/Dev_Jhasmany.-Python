@@ -14,11 +14,11 @@
 
 ## ESTRUCTURA DE DATOS:
 
-### ESTRUCTURA DE DATOS:
+### LISTAS:
 <ul>
     <li>&#128073<a href="https://github.com/jhasmany-fernandez/Dev_Jhasmany.-Python/blob/main/Estrutura%20Datos/Listas/01.-listas.ipynb">Listas</a></li>
     <li>&#128073<a href="https://github.com/jhasmany-fernandez/Dev_Jhasmany.-Python/blob/main/Estrutura%20Datos/Listas/02.-Listas%20-%20Sublistas.ipynb">Listas - Sublistas</a></li>
-    <li>&#128073<a href="">4. Funciones - Append, Extend, Insert, Remove, Pop</a></li>
+    <li>&#128073<a href="">Funciones - Append, Extend, Insert, Remove, Pop</a></li>
     <li>&#128073<a href="">Funciones - Count, Index, Len</a></li>
     <li>&#128073<a href="">For-In</a></li>
     <li>&#128073<a href="">Range</a></li>

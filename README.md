@@ -10,4 +10,19 @@
 <p align="center">REPOSITORIO: PYTHON | INSTALADORES | CONFIGURACIONES | COMANDOS<width="292"></p>
 
 ## NUMERO DE VISITANTES.
-<img align="left" src = "https://profile-counter.glitch.me/147b936321e303f2f5559dcd39ea3b02/count.svg" alt ="Loading"> <br>
+<img align="left" src = "https://profile-counter.glitch.me/Dev_jhasmany.-Python/count.svg" alt ="Loading"> <br>
+
+## ESTRUCTURA DE DATOS:
+
+> ### 1.- LISTAS
+>> [Listas]()<br>
+>> [Listas - Sublistas]()<br>
+>> [Funciones - Append, Extend, Insert, Remove, Pop]()<br>
+>> [Funciones - Count, Index, Len]()<br>
+>> [For-In]()<br>
+>> [Range]()<br>
+>> [Algoritmo - Sumatoria Y Promedio]()<br>
+>> [Algoritmo - Máximo Y Mínimo]()<br>
+>> [Algoritmo - For-In Con Range]()<br>
+>> [Algoritmo - Reversed()]()<br>
+>> [Algoritmo - Reverse()]()<br>

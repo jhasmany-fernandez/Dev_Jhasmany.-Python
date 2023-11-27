@@ -15,7 +15,7 @@
 ## ESTRUCTURA DE DATOS:
 
 > ### 1.- LISTAS
->> [Listas]()<br>
+>> [Listas](https://github.com/jhasmany-fernandez/Dev_Jhasmany.-Python/blob/main/Estrutura%20Datos/Listas/01.-listas.ipynb)<br>
 >> [Listas - Sublistas]()<br>
 >> [Funciones - Append, Extend, Insert, Remove, Pop]()<br>
 >> [Funciones - Count, Index, Len]()<br>

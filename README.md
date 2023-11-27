@@ -14,15 +14,17 @@
 
 ## ESTRUCTURA DE DATOS:
 
-> ### 1.- LISTAS
->> [Listas](https://github.com/jhasmany-fernandez/Dev_Jhasmany.-Python/blob/main/Estrutura%20Datos/Listas/01.-listas.ipynb)<br>
->> [Listas - Sublistas]()<br>
->> [Funciones - Append, Extend, Insert, Remove, Pop]()<br>
->> [Funciones - Count, Index, Len]()<br>
->> [For-In]()<br>
->> [Range]()<br>
->> [Algoritmo - Sumatoria Y Promedio]()<br>
->> [Algoritmo - Máximo Y Mínimo]()<br>
->> [Algoritmo - For-In Con Range]()<br>
->> [Algoritmo - Reversed()]()<br>
->> [Algoritmo - Reverse()]()<br>
+### ESTRUCTURA DE DATOS:
+<ul>
+    <li>&#128073<a href="https://github.com/jhasmany-fernandez/Dev_Jhasmany.-Python/blob/main/Estrutura%20Datos/Listas/01.-listas.ipynb">Listas</a></li>
+    <li>&#128073<a href="https://github.com/jhasmany-fernandez/Dev_Jhasmany.-Python/blob/main/Estrutura%20Datos/Listas/02.-Listas%20-%20Sublistas.ipynb">Listas - Sublistas</a></li>
+    <li>&#128073<a href="">4. Funciones - Append, Extend, Insert, Remove, Pop</a></li>
+    <li>&#128073<a href="">Funciones - Count, Index, Len</a></li>
+    <li>&#128073<a href="">For-In</a></li>
+    <li>&#128073<a href="">Range</a></li>
+    <li>&#128073<a href="">Algoritmo - Sumatoria Y Promedio</a></li>
+    <li>&#128073<a href="">Algoritmo - Máximo Y Mínimo</a></li>
+    <li>&#128073<a href="">Algoritmo - For-In Con Range</a></li>
+    <li>&#128073<a href="">Algoritmo - Reversed()</a></li>
+    <li>&#128073<a href="">Algoritmo - Reverse()</a></li>
+</ul>

@@ -7,7 +7,7 @@
 +--------------------------------------------------------------+<br>
 
 <p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36086876/282406040-4e48898c-f122-40de-a463-a68ae29f81a9.png" width="162"></p>
-<p align="center">REPOSITORIO: PYTHON | INSTALADORES | CONFIGURACIONES | COMANDOS<width="292"></p>
+<p align="center">REPOSITORIO: PYTHON | INSTALADORES | CONFIGURACIONES | COMANDOS</p>
 
 ## NUMERO DE VISITANTES.
 <img align="left" src = "https://profile-counter.glitch.me/Dev_jhasmany.-Python/count.svg" alt ="Loading"> <br>
